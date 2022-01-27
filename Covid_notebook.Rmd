@@ -1,0 +1,471 @@
+---
+title: "Covid Rough Draft"
+author: "Data Humanist"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: yes 
+    toc_float: yes
+  toc: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = TRUE,
+	fig.align = "center",
+	fig.fullwidth = TRUE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+
+```{r, libraries_data}
+library(tidyverse)
+library(here)
+library(visdat)
+library(reactable)
+library(glue)
+
+
+here()
+
+load(here::here("tidy_data", "project_data.RData"))
+
+# Custom breaks for the plots to come -------------------------------------
+
+breaks_sc <- c(seq(0, 0.2, by = 0.05), .25, .50, .75)
+breaks_sc1 <- c(seq(0, 20, by = 5), 25, 50, 75)
+breaks_per <- seq(0.00, 0.14, by = 0.02)
+breaks_per2 <- seq(0.00, 0.22, by = 0.02)
+
+cust_cap <- "Replace with appropriate caption"
+
+##
+# coutesy of https://www.r-bloggers.com/2019/12/vignette-downloadable-tables-in-rmarkdown-with-the-dt-package/
+
+create_dt <- function(x){
+  DT::datatable(x,
+                caption = cust_cap,
+                extensions = 'Buttons',
+                options = list(dom = 'Blfrtip',
+                buttons = c('copy', 'csv', 
+                            'excel', 'pdf', 'print'),
+                lengthMenu = list(c(10,25,50,-1),  c(10,25,50,"All"))
+                
+                ) )
+}
+
+
+```
+
+## Brief
+
+This RMD generates the images and data tables. Primary data source: USA CDC, [Provisional Death Counts for COVID-19](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm).  Retrieved 19 January 2022. Deaths counts might lag slightly. Please read the CDC Disclaimer. 
+
+The clean dashboard version, with better graphics @ [Covid in the USA: 2021 vs. 2020](https://rpubs.com/Thom_JH/Covid_Relative_Risk)
+
+Polemic commentary on these results at Substack: [American Exile](https://americanexile.substack.com/).
+
+If you make use of this data or worksheet, please consider: http://buymeacoffee.com/datahumanist
+
+Thank you!
+
+
+Thank you.
+
+
+
+## Big Picture
+
+
+
+### Plots All
+```{r}
+
+all_chart <- All_Sexes_long %>%
+  mutate(Percentages = Ratio_Vals * 100) %>%
+  mutate(across(where(is.numeric), round, 2)) %>%
+  filter(Deaths_Type %in% c("With Covid","No Covid"))  %>%
+  ggplot( aes(x = Age_Range,  y = Percentages ,  fill = Deaths_Type) ) +
+  geom_bar(position="stack", stat="identity") +
+  facet_grid(Year ~ .) +
+  coord_flip() +
+  theme(legend.position = c(0.5, 0.5) , 
+        legend.background = element_rect(linetype = 2))+
+  scale_y_continuous( breaks =  breaks_sc1) +
+  scale_fill_manual(values = c("#121121", "#FF4500") ) +
+  labs(title = "All Sexes: Covid vs. Non-Covid Deaths",
+       fill = "Death Types", x = "Age Ranges", y= "Percentages",
+       subtitle = "US CDC data for years 2021 & 2020",
+       caption = "Data Humanist, CC BY-SA 4.0") +
+  geom_hline(yintercept = breaks_sc1 , color = "white", lty = 3) +
+  geom_text( aes(label = (({Percentages}) %>% round(1)) ), size = 2.2, 
+             vjust = "inward", hjust = "inward", color= "white") 
+
+
+
+all_chart
+
+```
+
+
+
+```{r}
+rr_all <- Comp_2021_vs_2020_ALL %>%
+  mutate(across(where(is.numeric), round, 2)) %>%
+  ggplot(aes(x = Age_Range,  y = Relative_Risk,  fill =  Relative_Risk)) +
+  geom_col() +
+  scale_fill_viridis_c(option = "D") +
+  guides(fill = "none")  +
+  labs(title = "Relative Risk: Dying with Covid in 2021 vs. 2020",
+       subtitle = "US CDC data. Source stratified by Age Range.",
+       caption = "Data Humanist, CC BY-SA 4.0",
+       x = "Age Range", y = "Relative Risk") +
+  geom_hline(yintercept = 1, color = "white", lty = 3) +
+  geom_text( aes(label = paste0(round({Relative_Risk}, 2), "x" ) ), size = 3, 
+             vjust = 1.5, color= "red") 
+
+
+rr_all 
+```
+
+
+
+### Data Sets ALL
+
+
+### Stats_All
+
+#### reactable
+
+```{r}
+
+All_Sexes %>% 
+  group_by( Age_Range, Year)  %>%
+  summarise("Deaths with C19" = Deaths_with_Covid,
+            "Deaths All Causes" = Death_All_Causes,
+            "C19 to All Deaths (%)" = (C19_Ratio * 100) %>% round(2) ) %>%
+  reactable(., highlight = TRUE, 
+            striped = TRUE,
+            pageSizeOptions = c(10, 25, 50, 100),
+            theme = reactableTheme(
+              stripedColor = "#EDEDED",
+              highlightColor = "#FFE4E1") ) 
+
+
+```
+
+
+#### knitr
+
+```{r}
+All_Sexes %>% 
+  group_by( Age_Range, Year)  %>%
+  summarise("Deaths with C19" = Deaths_with_Covid,
+            "Deaths All Causes" = Death_All_Causes,
+            "C19 to All Deaths (%)" = (C19_Ratio * 100) %>% round(2) )
+
+```
+
+
+#### DT
+
+```{r}
+cust_cap <- "CDC Data: Provisional COVID-19 Death Counts, 2020-2021: All Sexes"
+All_Sexes %>% 
+  group_by( Age_Range, Year)  %>%
+  summarise("Deaths with C19" = Deaths_with_Covid,
+            "Deaths All Causes" = Death_All_Causes,
+            "C19 to All Deaths (%)" = (C19_Ratio * 100) %>% 
+              round(2) ) %>% create_dt()
+```
+
+
+Note: going with DT.
+
+
+
+
+
+
+
+
+
+
+
+
+### Count Plot
+
+
+```{r}
+all_count <- All_Sexes_long %>%
+  mutate(across(where(is.numeric), round, 2)) %>%
+  filter(Deaths_Type %in% c("With Covid","No Covid"))  %>%
+  ggplot( aes(x = Age_Range,   y= Deaths_Count,  fill = Deaths_Type) ) +
+  geom_bar(position="stack", stat="identity") +
+  labs(title = "All Sexes: Covid vs. Non-Covid Deaths",
+       fill = "Death Types", x = "Age Ranges", 
+       subtitle = "US CDC data for years 2021 & 2020",
+       caption = "Data Humanist, CC BY-SA 4.0",
+       y = "Death Count") +
+  facet_grid(Year ~ .) +
+  coord_flip() +
+  theme(legend.position = c(0.8, 0.15)) +
+  scale_fill_manual(values = c("#121121", "#FF4500")) 
+
+all_count 
+```
+
+Note: count plots widely available online, and this one -- like those -- obscures the changes in percentages and relative risk.
+
+## By Sex
+
+
+### Female
+
+```{r}
+
+
+female_chart <- My_data_long %>% 
+  mutate(Percentages = Ratio_Vals * 100) %>%
+  mutate(across(where(is.numeric), round, 2)) %>%
+  filter(Deaths_Type %in% c("With Covid","No Covid"))  %>%
+  filter(Sex == "Female") %>% 
+  ggplot( aes(x = Age_Range,  
+              y = Percentages,  
+              fill = Deaths_Type) ) +
+  geom_bar(position="stack", stat="identity") +
+  facet_grid(Year ~ .) +
+  scale_y_continuous(breaks = breaks_sc1 ) +
+  coord_flip() +
+  theme(legend.position = c(0.5, 0.5)) +
+  scale_fill_manual(values = c("#696969", "#FF4500") ) +
+  labs(title = "Female: Deaths w/ Covid vs. Non-Covid",
+       subtitle = "US CDC data for years 2021 & 2020",
+       caption = "Data Humanist, CC BY-SA 4.0",
+       y = "Percentages", x = "Age Range", fill = "Death Types")  +
+  geom_hline(yintercept = breaks_sc , color = "#FFFFF0", lty = 3) +
+  geom_text(aes(label = (({Percentages} ) %>% round(1)) ), size = 2.2, 
+             vjust = "inward", hjust = "inward", color= "#F8F8FF") 
+
+
+female_chart 
+
+
+```
+
+
+
+
+```{r}
+rr_female <- Comp_2021_vs_2020 %>%
+  filter(Sex == "Female") %>%
+  mutate(across(where(is.numeric), round, 2)) %>%
+  ggplot(aes(x = Age_Range,  y = Relative_Risk,  fill =  Relative_Risk)) +
+  geom_col() +
+  scale_fill_viridis_c(option = "D") +
+  guides(fill = "none")  +
+  labs(title = "Female Relative Risk: Dying with Covid in 2021 vs. 2020",
+       subtitle = "US CDC data. Source stratified by Age Range.",
+       caption = "Data Humanist, CC BY-SA 4.0",
+       x = "Age Ranges", y = "Relative Risk") +
+  geom_hline(yintercept = 1, color = "white", lty = 3) +
+  geom_text( aes(label = paste0(round({Relative_Risk}, 2), "x" ) ), size = 3, 
+             vjust = 1.5, color= "red") 
+
+rr_female 
+```
+
+
+
+
+
+```{r}
+
+cust_cap <- "CDC Data for Female Sex: Provisional Death Counts for COVID-19" 
+
+Female_DT <-  My_data %>% 
+  group_by(Age_Range, Year)  %>%
+  filter(Sex == "Female") %>%
+  summarise("Deaths with C19" = Deaths_with_Covid,
+            "Deaths All Causes" = Death_All_Causes,
+            "C19 to All Deaths (%)" = (C19_Ratio * 100) %>% round(2) )
+
+create_dt(Female_DT) 
+  
+
+
+
+```
+
+
+### Male
+
+```{r}
+breaks_sc1 <- c(seq(0, 20, by = 5), 25, 50, 75)
+male_chart <- My_data_long %>% 
+  mutate(Percentages = Ratio_Vals * 100) %>%
+  mutate(across(where(is.numeric), round, 2)) %>%
+  filter(Deaths_Type %in% c("With Covid","No Covid"))  %>%
+  filter(Sex == "Male") %>% 
+  ggplot( aes(x = Age_Range,  
+              y = Percentages ,  
+              fill = Deaths_Type) ) +
+  geom_bar(position="stack", stat="identity") +
+  facet_grid(Year ~ .) +
+  scale_y_continuous(breaks = breaks_sc1 ) +
+  coord_flip() +
+  theme(legend.position = c(0.5, 0.5)) +
+  scale_fill_manual(values = c("#4682B4", "#FF4500")) +
+  labs(title = "Male: Deaths w/ Covid vs. Non-Covid",
+       subtitle = "US CDC data for years 2021 & 2020",
+       caption = "Data Humanist, CC BY-SA 4.0",
+       y = "Percentages", x = "Age Range", fill = "Death Types") +
+  geom_hline(yintercept = breaks_sc1 , color = "white", lty = 3) +
+  geom_text( aes(label = (({Percentages}) %>% round(1)) ), size = 2.2, 
+             vjust = "inward", hjust = "inward", color= "#F8F8FF") 
+
+male_chart
+
+```
+
+
+
+```{r}
+
+
+rr_male <- Comp_2021_vs_2020 %>%
+  filter(Sex == "Male") %>%
+  mutate(across(where(is.numeric), round, 2)) %>%
+  ggplot(aes(x = Age_Range,  y = Relative_Risk,  fill =  Relative_Risk)) +
+  geom_col() +
+  scale_fill_viridis_c(option = "D") +
+  guides(fill = "none")  +
+  labs(title = "Male Relative Risk: Dying with Covid in 2021 vs. 2020",
+       subtitle = "US CDC data. Source stratified by Age Range.",
+       caption = "Data Humanist, CC BY-SA 4.0",
+       x = "Age Ranges", y = "Relative Risk") +
+  geom_hline(yintercept = 1, color = "white", lty = 3) +
+  geom_text( aes(label = paste0(round({Relative_Risk}, 2), "x" ) ), 
+             size = 3, 
+             vjust = 1.5, color= "red") 
+
+rr_male
+```
+```{r}
+cust_cap <- "CDC Data for Male Sex: Provisional Death Counts for COVID-19" 
+
+Male_DT <- My_data %>% 
+  group_by(Age_Range, Year)  %>%
+  filter(Sex == "Male") %>%
+  summarise("Deaths with C19" = Deaths_with_Covid,
+            "Deaths All Causes" = Death_All_Causes,
+            "C19 to All Deaths (%)" = (C19_Ratio * 100) %>% round(2) ) 
+
+create_dt(Male_DT)
+```
+
+
+### Key Stats
+
+```{r}
+
+cust_cap <-  "CDC Data: Provisional Death Counts for COVID-19"
+
+RR_ALL_DT <- Comp_2021_vs_2020_ALL %>%
+  mutate(across(where(is.numeric), round, 4), Per_Change = Per_Change * 100) 
+
+create_dt(RR_ALL_DT)
+```
+
+
+
+
+```{r}
+Comp_2021_vs_2020_ALL  %>%
+  mutate(across(where(is.numeric), round, 4), Per_Change = Per_Change * 100) %>%
+  reactable(., highlight = TRUE, striped = TRUE, 
+            theme = reactableTheme(stripedColor = "#EDEDED",
+                                   highlightColor = "#FFE4E1")) 
+```
+
+
+
+### Diff Plot
+
+```{r}
+per_change_both  <- Comp_2021_vs_2020 %>%
+  ggplot(aes(x = Age_Range,  y = Per_Change,  fill =  Per_Change)) +
+  geom_col() +
+  facet_grid(Sex~ .) +
+  scale_fill_viridis_c() +
+  guides(fill = "none")  +
+  labs(title = " 2021 vs 2020: % Change in Deaths with Covid",
+       subtitle = "US CDC data for years 2021 & 2020",
+       x = "Age Ranges", y = "Percentage Change",
+      caption = "Data Humanist, CC BY-SA 4.0") +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1),
+                     breaks = breaks_per)
+
+per_change_both  
+```
+
+
+
+```{r}
+both_rr <- Comp_2021_vs_2020 %>%
+  mutate(across(where(is.numeric), round, 2)) %>%
+  ggplot(aes(x = Age_Range,  y = Relative_Risk,  fill =  Relative_Risk)) +
+  geom_col() +
+  facet_grid(Sex~ .) +
+  scale_fill_viridis_c(option = "D") +
+  guides(fill = "none")  +
+  labs(title = "Relative Risk: Dying with Covid in 2021 vs. 2020",
+       subtitle = "US CDC data for years 2021 & 2020",
+       caption = "Data Humanist, CC BY-SA 4.0",
+       x = "Age Ranges", y = "Relative Risk") +
+  geom_hline(yintercept = 1, color = "white", lty = 3) +
+  geom_text( aes(label = paste0(round({Relative_Risk}, 2), "x" ) ), size = 3, 
+             vjust = 1.5, color= "red") 
+
+both_rr
+```
+
+
+### Diff Stats
+
+```{r}
+
+cust_cap <-  "2021 vs 2020: Changes in Death Percentage and Relative Risk"
+
+Comp_2021_vs_2020_DT <- Comp_2021_vs_2020 %>%
+  mutate(across(where(is.numeric), round, 4), Per_Change = Per_Change * 100) 
+
+create_dt(Comp_2021_vs_2020_DT)
+
+```
+
+
+
+
+### Raw Data Sets
+
+
+```{r}
+cust_cap <-  "Tidy Version: Long Format"
+
+
+My_data_long %>% 
+  mutate(across(where(is.numeric), round, 7)) %>% 
+  create_dt()
+
+All_Sexes_long%>% 
+  mutate(across(where(is.numeric), round, 7)) %>% 
+  create_dt()
+
+```
+
+
+

@@ -1,4 +1,7 @@
 # Covid2021vs2020
+
+Please note: as of 14 May 2022,  all code, data, and image files associated with this repository are now [CC0 (Public Domain)](https://creativecommons.org/share-your-work/public-domain/cc0/). Any text commentary remains copyright &copy; 2022 to the respective authors.
+
 Based upon CDC data provided by the USA government, this study explores the relative risk of dying with Covid in 2021 as compared to 2020.  Results -- Visualizations and Data Tables -- presented @ <a href ="https://rpubs.com/Thom_JH/Covid_Relative_Risk">Covid in the USA: 2021 vs. 2020</a>.
 
 
@@ -15,7 +18,8 @@ For the Age Ranges 0-17, 18-27, and 30-39, the Relative Risk more than doubled; 
 In 2021, biological females in Age Ranges 0-17, 18-29, and 30-39 were 2.5 times MORE likely to die with Covid. To express that in percentages: 278%, 256%, and 259% respectively. Biological males only did comparatively better, but still had noteworthy Relative Risk increases in five of eight Age Ranges.
 
 <hr />
-The following applies to all code, data, and image files associated with this repository. The text commentary remains copyright &copy; 2022.
+The following applies to all code, data, and image files associated with this repository.  Any text commentary remains copyright &copy; 2022 to the respective authors.
+
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"

@@ -15,9 +15,27 @@ For the Age Ranges 0-17, 18-27, and 30-39, the Relative Risk more than doubled; 
 In 2021, biological females in Age Ranges 0-17, 18-29, and 30-39 were 2.5 times MORE likely to die with Covid. To express that in percentages: 278%, 256%, and 259% respectively. Biological males only did comparatively better, but still had noteworthy Relative Risk increases in five of eight Age Ranges.
 
 <hr />
-If you find these results useful, please consider <a href = "http://buymeacoffee.com/datahumanist">buying me a coffee</a>!
+The following applies to all code, data, and image files associated with this repository. The text commentary remains copyright &copy; 2022.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/Thom-J-H/map_Gap_2_Tidy">
+    <span property="dct:title">Data Humanist</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Covid2021vs2020</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="US" about="https://github.com/Thom-J-H/map_Gap_2_Tidy">
+  United States</span>.
+</p>
+
+If you find these results useful, please consider <a href = "http://buymeacoffee.com/datahumanist">buying me a coffee</a>!
 
 
 

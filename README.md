@@ -10,7 +10,7 @@ Based on the American [CDC data set](https://www.cdc.gov/nchs/nvss/vsrr/covid_we
 
 ![report_21_85](https://user-images.githubusercontent.com/12042357/169704222-3909c506-528f-42a9-b29a-2d380c81de3e.png)
 
- The files associated with this project include the data set, the image files, and the R script to generate the plots.  The results are displayed in the following dashboard: [Covid & Other Conditions](https://rpubs.com/Thom_JH/Covid_Comorbidities). 
+ The files associated with this project include the data set, the image files, and the R script to generate the plots.  The results are displayed in the following dashboard: [Covid & Other Conditions](https://rpubs.com/Thom_JH/Covid_Comorbidities) (22 May 2022). 
 
 
 <hr />
@@ -28,12 +28,12 @@ Scaled for population size:
 
 ![usa_2021_ratio](https://user-images.githubusercontent.com/12042357/169704637-5af7e4ee-a571-4f5e-83cc-d6e4a3e4196e.png)
 
-The files associated with this project include the data set, the image files, and the R script to generate the plots. The results are displayed in the following notebook: [CDC Age Groups](https://rpubs.com/Thom_JH/CDC_Age_Groups)
+The files associated with this project include the data set, the image files, and the R script to generate the plots. The results are displayed in the following notebook: [CDC Age Groups](https://rpubs.com/Thom_JH/CDC_Age_Groups)  (14 May 2022). 
 
 <hr />
 
 ## Relative Risk: 2021 vs. 2020
-Based upon CDC data provided by the USA government, this study explores the relative risk of dying with Covid in 2021 as compared to 2020.  Results -- Visualizations and Data Tables -- presented @ <a href ="https://rpubs.com/Thom_JH/Covid_Relative_Risk">Covid in the USA: 2021 vs. 2020</a>.
+Based upon CDC data provided by the USA government, this study explores the relative risk of dying with Covid in 2021 as compared to 2020.  Results -- Visualizations and Data Tables -- presented @ <a href ="https://rpubs.com/Thom_JH/Covid_Relative_Risk">Covid in the USA: 2021 vs. 2020</a> (27 January 2022).
 
 
 ![All_Percentages_byDataHumanist](https://user-images.githubusercontent.com/12042357/151283159-7bf64940-09a7-45e3-b11a-258193fd941a.png)

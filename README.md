@@ -8,10 +8,15 @@ Please note: as of 14 May 2022,  all code, data, and image files associated with
 
 Based on the American [CDC data set](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm#Comorbidities): “Conditions Contributing to COVID-19 Deaths, by State and Age, Provisional 2020-2022, updated on 18 May 2022. The new CDC language is “deaths involving coronavirus disease 2019.” For over 5% of deaths, only the only condition reported was Covid. For the remaining (94% +), an average "4.0 additional conditions or causes per death."
 
+For year 2021, Age Group 85+:
+
 ![report_21_85](https://user-images.githubusercontent.com/12042357/169704222-3909c506-528f-42a9-b29a-2d380c81de3e.png)
 
  The files associated with this project include the data set, the image files, and the R script to generate the plots.  The results are displayed in the following dashboard: [Covid & Other Conditions](https://rpubs.com/Thom_JH/Covid_Comorbidities) (22 May 2022). 
 
+For year 2020, Age Group 0-24:
+
+![report_20_24](https://user-images.githubusercontent.com/12042357/169705428-a845add5-9797-43c2-aa3f-c13f9aecb3cd.png)
 
 <hr />
 

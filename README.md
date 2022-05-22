@@ -6,11 +6,29 @@ Please note: as of 14 May 2022,  all code, data, and image files associated with
 
 ## Covid & Other Conditions, 2020 & 2021
 
+Based on the American [CDC data set](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm#Comorbidities): “Conditions Contributing to COVID-19 Deaths, by State and Age, Provisional 2020-2022, updated on 18 May 2022. The new CDC language is “deaths involving coronavirus disease 2019.” For over 5% of deaths, only the only condition reported was Covid. For the remaining (94% +), an average "4.0 additional conditions or causes per death."
+
 ![report_21_85](https://user-images.githubusercontent.com/12042357/169704222-3909c506-528f-42a9-b29a-2d380c81de3e.png)
 
-Based on the American [CDC data set](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm#Comorbidities): “Conditions Contributing to COVID-19 Deaths, by State and Age, Provisional 2020-2022, updated on 18 May 2022. The new CDC language is “deaths involving coronavirus disease 2019.” For over 5% of deaths, only the only condition reported was Covid. For the remaining (94% +), an average "4.0 additional conditions or causes per death." The files associated with this project include the data set, the image files, and the R script to generate the plots.  The results are displayed in the following dashboard: [Covid & Other Conditions](https://rpubs.com/Thom_JH/Covid_Comorbidities). 
+ The files associated with this project include the data set, the image files, and the R script to generate the plots.  The results are displayed in the following dashboard: [Covid & Other Conditions](https://rpubs.com/Thom_JH/Covid_Comorbidities). 
 
 
+<hr />
+
+## CDC Age Groups: Mortality Risks, 2020 & 2021
+
+This report makes use of the [American CDC data set](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm#Comorbidities) “Conditions Contributing to COVID-19 Deaths, by State and Age, Provisional 2020-2022, updated on 11 May 2022. The Age Group 0-24 seems in direct violation of the Age Group ranges endorsed by the American Academy of Pediatrics and the National Institute of Child Health and Human Development. Because of how the CDC stratified the results, it is difficult to arrive the Covid mortality risks faced by American children. The following graphs work with the data we have – not the data one might wish – to explore the Covid mortality risks faced by American children.
+
+By percentage:
+
+![CDC_2021_deaths_age_group](https://user-images.githubusercontent.com/12042357/169704592-1cc2dffb-ca87-46c7-99c2-4324ceffa9e2.png)
+
+Scaled for population size:
+
+
+![usa_2021_ratio](https://user-images.githubusercontent.com/12042357/169704637-5af7e4ee-a571-4f5e-83cc-d6e4a3e4196e.png)
+
+The files associated with this project include the data set, the image files, and the R script to generate the plots. The results are displayed in the following notebook: [CDC Age Groups](https://rpubs.com/Thom_JH/CDC_Age_Groups)
 
 <hr />
 

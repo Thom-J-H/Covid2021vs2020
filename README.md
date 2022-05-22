@@ -1,7 +1,9 @@
 # Covid2021vs2020
 
 Please note: as of 14 May 2022,  all code, data, and image files associated with this repository are now [CC0 (Public Domain)](https://creativecommons.org/share-your-work/public-domain/cc0/). Any text commentary remains copyright &copy; 2022 to the respective authors.
+
 <hr />
+
 ## Covid & Other Conditions, 2020 & 2021
 
 ![report_21_85](https://user-images.githubusercontent.com/12042357/169704222-3909c506-528f-42a9-b29a-2d380c81de3e.png)

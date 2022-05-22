@@ -1,0 +1,691 @@
+"","Data_As_Of","Start_Date","End_Date","Group","Year","Month","State","Condition_Group","Condition","ICD10_codes","Age_Group","Covid_Deaths","Mentions_N","Flag"
+"1","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","0-24",249,256,NA
+"2","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","0-24",887,927,NA
+"3","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","0-24",184,197,NA
+"4","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","25-34",1112,1131,NA
+"5","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","25-34",3713,3859,NA
+"6","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","25-34",658,695,NA
+"7","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","35-44",3006,3069,NA
+"8","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","35-44",9700,10128,NA
+"9","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","35-44",1683,1770,NA
+"10","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","45-54",8867,9109,NA
+"11","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","45-54",22562,23475,NA
+"12","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","45-54",4386,4602,NA
+"13","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","55-64",22055,22613,NA
+"14","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","55-64",45324,47038,NA
+"15","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","55-64",11109,11638,NA
+"16","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","65-74",39212,40096,NA
+"17","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","65-74",62764,64762,NA
+"18","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","65-74",18023,18691,NA
+"19","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","75-84",47411,48203,NA
+"20","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","75-84",58428,59814,NA
+"21","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","75-84",19040,19647,NA
+"22","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","85+",46105,46556,NA
+"23","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","85+",42742,43330,NA
+"24","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","85+",15400,15724,NA
+"25","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","Not stated",6,6,NA
+"26","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","Not stated",3,3,NA
+"27","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","Not stated",2,2,NA
+"28","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",168023,171039,NA
+"29","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",246123,253336,NA
+"30","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",70485,72966,NA
+"31","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","0-24",43,45,NA
+"32","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","0-24",89,90,NA
+"33","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","0-24",27,28,NA
+"34","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","25-34",119,119,NA
+"35","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","25-34",232,236,NA
+"36","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","25-34",54,55,NA
+"37","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","35-44",272,278,NA
+"38","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","35-44",556,568,NA
+"39","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","35-44",136,138,NA
+"40","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","45-54",837,857,NA
+"41","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","45-54",1558,1622,NA
+"42","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","45-54",437,447,NA
+"43","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","55-64",3387,3539,NA
+"44","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","55-64",5375,5640,NA
+"45","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","55-64",1909,2034,NA
+"46","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","65-74",8416,8760,NA
+"47","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","65-74",10227,10777,NA
+"48","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","65-74",4043,4262,NA
+"49","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","75-84",11575,12016,NA
+"50","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","75-84",11873,12455,NA
+"51","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","75-84",5012,5270,NA
+"52","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","85+",10330,10610,NA
+"53","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","85+",7899,8177,NA
+"54","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","85+",3373,3512,NA
+"55","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","Not stated",1,1,NA
+"56","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","Not stated",0,0,NA
+"57","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","Not stated",0,0,NA
+"58","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",34980,36225,NA
+"59","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",37809,39565,NA
+"60","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",14991,15746,NA
+"61","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","0-24",112,112,NA
+"62","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","0-24",279,279,NA
+"63","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","0-24",57,57,NA
+"64","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","25-34",402,402,NA
+"65","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","25-34",1165,1165,NA
+"66","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","25-34",181,181,NA
+"67","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","35-44",1130,1130,NA
+"68","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","35-44",2993,2993,NA
+"69","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","35-44",465,465,NA
+"70","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","45-54",3330,3330,NA
+"71","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","45-54",6666,6666,NA
+"72","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","45-54",1183,1183,NA
+"73","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","55-64",7484,7484,NA
+"74","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","55-64",12117,12117,NA
+"75","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","55-64",2542,2542,NA
+"76","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","65-74",11538,11538,NA
+"77","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","65-74",14016,14016,NA
+"78","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","65-74",3287,3287,NA
+"79","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","75-84",10481,10481,NA
+"80","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","75-84",8783,8783,NA
+"81","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","75-84",2240,2240,NA
+"82","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","85+",7239,7239,NA
+"83","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","85+",3308,3308,NA
+"84","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","85+",970,970,NA
+"85","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","Not stated",1,1,NA
+"86","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","Not stated",0,0,NA
+"87","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","Not stated",0,0,NA
+"88","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",41717,41717,NA
+"89","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",49327,49327,NA
+"90","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",10925,10925,NA
+"91","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory failure","J96","0-24",188,195,NA
+"92","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory failure","J96","0-24",605,631,NA
+"93","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory failure","J96","0-24",136,148,NA
+"94","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory failure","J96","25-34",791,802,NA
+"95","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory failure","J96","25-34",2523,2562,NA
+"96","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory failure","J96","25-34",487,496,NA
+"97","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory failure","J96","35-44",2174,2204,NA
+"98","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory failure","J96","35-44",6916,7013,NA
+"99","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory failure","J96","35-44",1222,1251,NA
+"100","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory failure","J96","45-54",6763,6878,NA
+"101","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory failure","J96","45-54",16612,16821,NA
+"102","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory failure","J96","45-54",3407,3481,NA
+"103","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory failure","J96","55-64",17386,17737,NA
+"104","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory failure","J96","55-64",35300,36018,NA
+"105","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory failure","J96","55-64",8946,9245,NA
+"106","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory failure","J96","65-74",32584,33444,NA
+"107","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory failure","J96","65-74",50811,52316,NA
+"108","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory failure","J96","65-74",14761,15376,NA
+"109","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory failure","J96","75-84",40445,41599,NA
+"110","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory failure","J96","75-84",47982,49557,NA
+"111","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory failure","J96","75-84",15843,16569,NA
+"112","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory failure","J96","85+",38021,38863,NA
+"113","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory failure","J96","85+",33290,34168,NA
+"114","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory failure","J96","85+",11894,12291,NA
+"115","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory failure","J96","Not stated",3,3,NA
+"116","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory failure","J96","Not stated",2,2,NA
+"117","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory failure","J96","Not stated",2,2,NA
+"118","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory failure","J96","All Ages",138355,141725,NA
+"119","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory failure","J96","All Ages",194041,199088,NA
+"120","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory failure","J96","All Ages",56698,58859,NA
+"121","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","0-24",15,15,NA
+"122","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","0-24",40,40,NA
+"123","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","0-24",10,10,NA
+"124","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","25-34",50,50,NA
+"125","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","25-34",121,121,NA
+"126","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","25-34",36,36,NA
+"127","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","35-44",130,130,NA
+"128","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","35-44",304,304,NA
+"129","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","35-44",63,63,NA
+"130","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","45-54",343,343,NA
+"131","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","45-54",698,698,NA
+"132","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","45-54",147,147,NA
+"133","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","55-64",885,885,NA
+"134","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","55-64",1464,1464,NA
+"135","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","55-64",396,396,NA
+"136","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","65-74",1616,1616,NA
+"137","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","65-74",2060,2060,NA
+"138","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","65-74",705,705,NA
+"139","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","75-84",2250,2250,NA
+"140","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","75-84",2265,2265,NA
+"141","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","75-84",788,788,NA
+"142","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","85+",2863,2863,NA
+"143","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","85+",2216,2216,NA
+"144","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","85+",801,801,NA
+"145","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","Not stated",0,0,NA
+"146","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","Not stated",0,0,NA
+"147","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","Not stated",0,0,NA
+"148","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","All Ages",8152,8152,NA
+"149","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","All Ages",9168,9168,NA
+"150","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory arrest","R09.2","All Ages",2946,2946,NA
+"151","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","0-24",37,39,NA
+"152","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","0-24",177,194,NA
+"153","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","0-24",52,57,NA
+"154","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","25-34",125,135,NA
+"155","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","25-34",471,507,NA
+"156","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","25-34",85,89,NA
+"157","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","35-44",307,322,NA
+"158","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","35-44",1102,1182,NA
+"159","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","35-44",238,259,NA
+"160","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","45-54",777,820,NA
+"161","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","45-54",2382,2574,NA
+"162","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","45-54",615,659,NA
+"163","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","55-64",1964,2085,NA
+"164","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","55-64",4712,5102,NA
+"165","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","55-64",1499,1626,NA
+"166","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","65-74",3472,3656,NA
+"167","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","65-74",6247,6660,NA
+"168","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","65-74",2258,2406,NA
+"169","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","75-84",4149,4309,NA
+"170","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","75-84",5781,6092,NA
+"171","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","75-84",2381,2527,NA
+"172","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","85+",4121,4204,NA
+"173","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","85+",3909,4071,NA
+"174","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","85+",1859,1936,NA
+"175","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","Not stated",0,0,NA
+"176","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","Not stated",0,0,NA
+"177","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","Not stated",0,0,NA
+"178","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",14952,15570,NA
+"179","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",24781,26382,NA
+"180","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Respiratory diseases","Respiratory system diseases (other)","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",8987,9559,NA
+"181","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","0-24",29,29,NA
+"182","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","0-24",46,46,NA
+"183","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","0-24",11,11,NA
+"184","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","25-34",226,229,NA
+"185","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","25-34",449,454,NA
+"186","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","25-34",99,102,NA
+"187","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","35-44",973,980,NA
+"188","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","35-44",1881,1891,NA
+"189","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","35-44",404,409,NA
+"190","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","45-54",3181,3206,NA
+"191","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","45-54",5297,5326,NA
+"192","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","45-54",1182,1192,NA
+"193","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","55-64",9089,9142,NA
+"194","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","55-64",12247,12348,NA
+"195","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","55-64",3246,3279,NA
+"196","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","65-74",17149,17237,NA
+"197","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","65-74",18735,18879,NA
+"198","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","65-74",5776,5849,NA
+"199","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","75-84",22195,22346,NA
+"200","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","75-84",19703,19918,NA
+"201","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","75-84",7011,7131,NA
+"202","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","85+",26382,26680,NA
+"203","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","85+",18694,19119,NA
+"204","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","85+",7524,7754,NA
+"205","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","Not stated",3,3,NA
+"206","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","Not stated",1,1,NA
+"207","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","Not stated",2,2,NA
+"208","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",79227,79852,NA
+"209","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",77053,77982,NA
+"210","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",25255,25729,NA
+"211","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","0-24",6,7,NA
+"212","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","0-24",19,20,NA
+"213","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","0-24",5,5,NA
+"214","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","25-34",53,56,NA
+"215","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","25-34",140,146,NA
+"216","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","25-34",39,43,NA
+"217","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","35-44",227,237,NA
+"218","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","35-44",529,577,NA
+"219","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","35-44",144,161,NA
+"220","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","45-54",1008,1071,NA
+"221","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","45-54",1998,2136,NA
+"222","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","45-54",527,580,NA
+"223","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","55-64",3782,4039,NA
+"224","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","55-64",5863,6346,NA
+"225","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","55-64",1801,1982,NA
+"226","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","65-74",8880,9456,NA
+"227","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","65-74",10972,11822,NA
+"228","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","65-74",3838,4206,NA
+"229","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","75-84",13547,14320,NA
+"230","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","75-84",13516,14484,NA
+"231","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","75-84",5182,5626,NA
+"232","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","85+",15731,16525,NA
+"233","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","85+",11930,12742,NA
+"234","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","85+",5069,5441,NA
+"235","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","Not stated",3,3,NA
+"236","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","Not stated",2,2,NA
+"237","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","Not stated",1,2,NA
+"238","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",43237,45714,NA
+"239","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",44969,48275,NA
+"240","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",16606,18046,NA
+"241","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrest","I46","0-24",90,90,NA
+"242","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrest","I46","0-24",243,243,NA
+"243","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrest","I46","0-24",78,78,NA
+"244","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrest","I46","25-34",361,361,NA
+"245","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrest","I46","25-34",925,927,NA
+"246","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrest","I46","25-34",201,201,NA
+"247","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrest","I46","35-44",953,953,NA
+"248","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrest","I46","35-44",2326,2327,NA
+"249","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrest","I46","35-44",480,480,NA
+"250","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrest","I46","45-54",2784,2784,NA
+"251","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrest","I46","45-54",5371,5372,NA
+"252","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrest","I46","45-54",1194,1195,NA
+"253","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrest","I46","55-64",6344,6346,NA
+"254","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrest","I46","55-64",10540,10544,NA
+"255","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrest","I46","55-64",2773,2774,NA
+"256","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrest","I46","65-74",10288,10288,NA
+"257","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrest","I46","65-74",13877,13878,NA
+"258","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrest","I46","65-74",4399,4402,NA
+"259","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrest","I46","75-84",11407,11408,NA
+"260","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrest","I46","75-84",12856,12862,NA
+"261","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrest","I46","75-84",4636,4636,NA
+"262","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrest","I46","85+",11637,11639,NA
+"263","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrest","I46","85+",10012,10015,NA
+"264","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrest","I46","85+",4048,4049,NA
+"265","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrest","I46","Not stated",1,1,NA
+"266","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrest","I46","Not stated",0,0,NA
+"267","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrest","I46","Not stated",0,0,NA
+"268","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrest","I46","All Ages",43865,43870,NA
+"269","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrest","I46","All Ages",56150,56168,NA
+"270","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrest","I46","All Ages",17809,17815,NA
+"271","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","0-24",18,18,NA
+"272","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","0-24",38,40,NA
+"273","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","0-24",23,23,NA
+"274","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","25-34",56,56,NA
+"275","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","25-34",159,166,NA
+"276","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","25-34",40,41,NA
+"277","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","35-44",147,149,NA
+"278","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","35-44",427,442,NA
+"279","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","35-44",93,96,NA
+"280","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","45-54",556,576,NA
+"281","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","45-54",1317,1347,NA
+"282","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","45-54",321,331,NA
+"283","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","55-64",1881,1929,NA
+"284","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","55-64",3776,3878,NA
+"285","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","55-64",1230,1266,NA
+"286","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","65-74",4912,5043,NA
+"287","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","65-74",7531,7707,NA
+"288","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","65-74",2674,2754,NA
+"289","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","75-84",8553,8737,NA
+"290","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","75-84",10440,10685,NA
+"291","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","75-84",4175,4282,NA
+"292","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","85+",11560,11765,NA
+"293","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","85+",10894,11144,NA
+"294","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","85+",4597,4688,NA
+"295","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","Not stated",0,0,NA
+"296","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","Not stated",0,0,NA
+"297","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","Not stated",0,0,NA
+"298","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",27683,28273,NA
+"299","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",34582,35409,NA
+"300","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",13153,13481,NA
+"301","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Heart failure","I50","0-24",12,12,NA
+"302","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Heart failure","I50","0-24",37,37,NA
+"303","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Heart failure","I50","0-24",12,12,NA
+"304","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Heart failure","I50","25-34",63,63,NA
+"305","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Heart failure","I50","25-34",160,160,NA
+"306","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Heart failure","I50","25-34",50,50,NA
+"307","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Heart failure","I50","35-44",199,199,NA
+"308","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Heart failure","I50","35-44",410,410,NA
+"309","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Heart failure","I50","35-44",140,140,NA
+"310","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Heart failure","I50","45-54",656,657,NA
+"311","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Heart failure","I50","45-54",1194,1196,NA
+"312","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Heart failure","I50","45-54",402,403,NA
+"313","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Heart failure","I50","55-64",2175,2177,NA
+"314","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Heart failure","I50","55-64",3189,3190,NA
+"315","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Heart failure","I50","55-64",1211,1211,NA
+"316","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Heart failure","I50","65-74",4921,4925,NA
+"317","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Heart failure","I50","65-74",6605,6614,NA
+"318","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Heart failure","I50","65-74",2671,2674,NA
+"319","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Heart failure","I50","75-84",8446,8450,NA
+"320","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Heart failure","I50","75-84",9505,9519,NA
+"321","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Heart failure","I50","75-84",4217,4219,NA
+"322","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Heart failure","I50","85+",12809,12816,NA
+"323","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Heart failure","I50","85+",11402,11415,NA
+"324","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Heart failure","I50","85+",5148,5154,NA
+"325","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Heart failure","I50","Not stated",1,1,NA
+"326","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Heart failure","I50","Not stated",0,0,NA
+"327","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Heart failure","I50","Not stated",0,0,NA
+"328","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Heart failure","I50","All Ages",29282,29300,NA
+"329","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Heart failure","I50","All Ages",32502,32541,NA
+"330","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Heart failure","I50","All Ages",13851,13863,NA
+"331","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","0-24",19,19,NA
+"332","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","0-24",48,53,NA
+"333","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","0-24",13,13,NA
+"334","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","25-34",54,59,NA
+"335","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","25-34",148,158,NA
+"336","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","25-34",43,46,NA
+"337","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","35-44",178,192,NA
+"338","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","35-44",439,456,NA
+"339","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","35-44",105,109,NA
+"340","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","45-54",649,681,NA
+"341","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","45-54",1148,1199,NA
+"342","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","45-54",320,333,NA
+"343","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","55-64",2031,2099,NA
+"344","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","55-64",2874,2990,NA
+"345","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","55-64",989,1030,NA
+"346","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","65-74",4182,4292,NA
+"347","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","65-74",4882,5022,NA
+"348","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","65-74",1899,1961,NA
+"349","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","75-84",5678,5807,NA
+"350","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","75-84",5551,5707,NA
+"351","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","75-84",2442,2548,NA
+"352","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","85+",6580,6731,NA
+"353","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","85+",5501,5676,NA
+"354","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","85+",2549,2648,NA
+"355","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","Not stated",1,1,NA
+"356","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","Not stated",0,0,NA
+"357","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","Not stated",0,0,NA
+"358","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",19372,19881,NA
+"359","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",20591,21261,NA
+"360","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",8360,8688,NA
+"361","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","0-24",85,98,NA
+"362","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","0-24",209,239,NA
+"363","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","0-24",69,79,NA
+"364","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","25-34",221,247,NA
+"365","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","25-34",582,656,NA
+"366","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","25-34",170,197,NA
+"367","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","35-44",474,548,NA
+"368","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","35-44",1439,1618,NA
+"369","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","35-44",377,432,NA
+"370","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","45-54",1205,1311,NA
+"371","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","45-54",3245,3637,NA
+"372","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","45-54",905,1028,NA
+"373","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","55-64",2837,3075,NA
+"374","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","55-64",6358,7052,NA
+"375","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","55-64",2237,2456,NA
+"376","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","65-74",5032,5502,NA
+"377","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","65-74",8687,9507,NA
+"378","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","65-74",3239,3594,NA
+"379","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","75-84",6262,6798,NA
+"380","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","75-84",8298,9081,NA
+"381","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","75-84",3589,3968,NA
+"382","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","85+",7050,7637,NA
+"383","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","85+",7108,7792,NA
+"384","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","85+",3082,3408,NA
+"385","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","Not stated",0,0,NA
+"386","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","Not stated",1,1,NA
+"387","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","Not stated",0,0,NA
+"388","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",23166,25216,NA
+"389","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",35927,39583,NA
+"390","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Circulatory diseases","Circulatory system diseases (other)","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",13668,15162,NA
+"391","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Sepsis","Sepsis","A40-A41","0-24",72,73,NA
+"392","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Sepsis","Sepsis","A40-A41","0-24",216,216,NA
+"393","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Sepsis","Sepsis","A40-A41","0-24",55,55,NA
+"394","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Sepsis","Sepsis","A40-A41","25-34",262,262,NA
+"395","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Sepsis","Sepsis","A40-A41","25-34",766,767,NA
+"396","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Sepsis","Sepsis","A40-A41","25-34",192,192,NA
+"397","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Sepsis","Sepsis","A40-A41","35-44",753,753,NA
+"398","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Sepsis","Sepsis","A40-A41","35-44",2218,2222,NA
+"399","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Sepsis","Sepsis","A40-A41","35-44",461,462,NA
+"400","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Sepsis","Sepsis","A40-A41","45-54",2445,2446,NA
+"401","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Sepsis","Sepsis","A40-A41","45-54",5164,5165,NA
+"402","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Sepsis","Sepsis","A40-A41","45-54",1220,1220,NA
+"403","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Sepsis","Sepsis","A40-A41","55-64",5940,5942,NA
+"404","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Sepsis","Sepsis","A40-A41","55-64",10555,10562,NA
+"405","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Sepsis","Sepsis","A40-A41","55-64",2956,2958,NA
+"406","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Sepsis","Sepsis","A40-A41","65-74",10036,10039,NA
+"407","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Sepsis","Sepsis","A40-A41","65-74",13458,13464,NA
+"408","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Sepsis","Sepsis","A40-A41","65-74",4415,4416,NA
+"409","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Sepsis","Sepsis","A40-A41","75-84",9617,9620,NA
+"410","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Sepsis","Sepsis","A40-A41","75-84",10387,10388,NA
+"411","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Sepsis","Sepsis","A40-A41","75-84",3734,3735,NA
+"412","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Sepsis","Sepsis","A40-A41","85+",6636,6638,NA
+"413","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Sepsis","Sepsis","A40-A41","85+",5286,5287,NA
+"414","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Sepsis","Sepsis","A40-A41","85+",2369,2369,NA
+"415","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Sepsis","Sepsis","A40-A41","Not stated",1,1,NA
+"416","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Sepsis","Sepsis","A40-A41","Not stated",0,0,NA
+"417","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Sepsis","Sepsis","A40-A41","Not stated",1,1,NA
+"418","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Sepsis","Sepsis","A40-A41","All Ages",35762,35774,NA
+"419","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Sepsis","Sepsis","A40-A41","All Ages",48050,48071,NA
+"420","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Sepsis","Sepsis","A40-A41","All Ages",15403,15408,NA
+"421","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","0-24",40,45,NA
+"422","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","0-24",65,73,NA
+"423","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","0-24",26,32,NA
+"424","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","25-34",62,71,NA
+"425","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","25-34",119,130,NA
+"426","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","25-34",37,53,NA
+"427","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","35-44",206,228,NA
+"428","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","35-44",310,370,NA
+"429","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","35-44",173,211,NA
+"430","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","45-54",600,705,NA
+"431","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","45-54",1067,1291,NA
+"432","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","45-54",524,629,NA
+"433","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","55-64",2198,2513,NA
+"434","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","55-64",3501,4103,NA
+"435","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","55-64",1846,2182,NA
+"436","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","65-74",4570,5135,NA
+"437","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","65-74",6688,7715,NA
+"438","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","65-74",3394,4041,NA
+"439","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","75-84",5337,6003,NA
+"440","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","75-84",6976,7927,NA
+"441","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","75-84",3571,4198,NA
+"442","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","85+",4393,4841,NA
+"443","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","85+",4488,5061,NA
+"444","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","85+",2238,2508,NA
+"445","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","Not stated",0,0,NA
+"446","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","Not stated",0,0,NA
+"447","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","Not stated",0,0,NA
+"448","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",17406,19541,NA
+"449","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",23214,26670,NA
+"450","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",11809,13854,NA
+"451","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Diabetes","Diabetes","E10-E14","0-24",84,84,NA
+"452","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Diabetes","Diabetes","E10-E14","0-24",144,146,NA
+"453","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Diabetes","Diabetes","E10-E14","0-24",26,26,NA
+"454","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Diabetes","Diabetes","E10-E14","25-34",352,354,NA
+"455","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Diabetes","Diabetes","E10-E14","25-34",671,679,NA
+"456","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Diabetes","Diabetes","E10-E14","25-34",134,138,NA
+"457","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Diabetes","Diabetes","E10-E14","35-44",1258,1269,NA
+"458","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Diabetes","Diabetes","E10-E14","35-44",2300,2333,NA
+"459","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Diabetes","Diabetes","E10-E14","35-44",440,445,NA
+"460","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Diabetes","Diabetes","E10-E14","45-54",3895,3915,NA
+"461","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Diabetes","Diabetes","E10-E14","45-54",6270,6315,NA
+"462","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Diabetes","Diabetes","E10-E14","45-54",1304,1328,NA
+"463","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Diabetes","Diabetes","E10-E14","55-64",9863,9925,NA
+"464","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Diabetes","Diabetes","E10-E14","55-64",13246,13339,NA
+"465","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Diabetes","Diabetes","E10-E14","55-64",3396,3432,NA
+"466","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Diabetes","Diabetes","E10-E14","65-74",16910,17004,NA
+"467","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Diabetes","Diabetes","E10-E14","65-74",19004,19120,NA
+"468","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Diabetes","Diabetes","E10-E14","65-74",5420,5471,NA
+"469","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Diabetes","Diabetes","E10-E14","75-84",17496,17576,NA
+"470","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Diabetes","Diabetes","E10-E14","75-84",16233,16349,NA
+"471","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Diabetes","Diabetes","E10-E14","75-84",5502,5560,NA
+"472","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Diabetes","Diabetes","E10-E14","85+",12751,12795,NA
+"473","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Diabetes","Diabetes","E10-E14","85+",9024,9082,NA
+"474","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Diabetes","Diabetes","E10-E14","85+",3487,3515,NA
+"475","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Diabetes","Diabetes","E10-E14","Not stated",2,2,NA
+"476","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Diabetes","Diabetes","E10-E14","Not stated",0,0,NA
+"477","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Diabetes","Diabetes","E10-E14","Not stated",2,2,NA
+"478","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Diabetes","Diabetes","E10-E14","All Ages",62611,62924,NA
+"479","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Diabetes","Diabetes","E10-E14","All Ages",66892,67363,NA
+"480","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Diabetes","Diabetes","E10-E14","All Ages",19711,19917,NA
+"481","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Obesity","Obesity","E65-E68","0-24",167,167,NA
+"482","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Obesity","Obesity","E65-E68","0-24",436,437,NA
+"483","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Obesity","Obesity","E65-E68","0-24",53,53,NA
+"484","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Obesity","Obesity","E65-E68","25-34",633,638,NA
+"485","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Obesity","Obesity","E65-E68","25-34",1733,1736,NA
+"486","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Obesity","Obesity","E65-E68","25-34",305,305,NA
+"487","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Obesity","Obesity","E65-E68","35-44",1377,1385,NA
+"488","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Obesity","Obesity","E65-E68","35-44",3555,3567,NA
+"489","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Obesity","Obesity","E65-E68","35-44",621,626,NA
+"490","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Obesity","Obesity","E65-E68","45-54",2488,2493,NA
+"491","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Obesity","Obesity","E65-E68","45-54",5736,5746,NA
+"492","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Obesity","Obesity","E65-E68","45-54",1098,1106,NA
+"493","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Obesity","Obesity","E65-E68","55-64",3750,3760,NA
+"494","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Obesity","Obesity","E65-E68","55-64",7321,7332,NA
+"495","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Obesity","Obesity","E65-E68","55-64",1742,1744,NA
+"496","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Obesity","Obesity","E65-E68","65-74",3910,3923,NA
+"497","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Obesity","Obesity","E65-E68","65-74",5991,5999,NA
+"498","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Obesity","Obesity","E65-E68","65-74",1662,1669,NA
+"499","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Obesity","Obesity","E65-E68","75-84",2176,2182,NA
+"500","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Obesity","Obesity","E65-E68","75-84",2558,2564,NA
+"501","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Obesity","Obesity","E65-E68","75-84",826,828,NA
+"502","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Obesity","Obesity","E65-E68","85+",590,590,NA
+"503","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Obesity","Obesity","E65-E68","85+",525,525,NA
+"504","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Obesity","Obesity","E65-E68","85+",175,176,NA
+"505","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Obesity","Obesity","E65-E68","Not stated",1,1,NA
+"506","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Obesity","Obesity","E65-E68","Not stated",0,0,NA
+"507","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Obesity","Obesity","E65-E68","Not stated",0,0,NA
+"508","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Obesity","Obesity","E65-E68","All Ages",15092,15139,NA
+"509","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Obesity","Obesity","E65-E68","All Ages",27855,27906,NA
+"510","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Obesity","Obesity","E65-E68","All Ages",6482,6507,NA
+"511","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Alzheimer disease","Alzheimer disease","G30","0-24",0,0,NA
+"512","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Alzheimer disease","Alzheimer disease","G30","0-24",0,0,NA
+"513","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Alzheimer disease","Alzheimer disease","G30","0-24",0,0,NA
+"514","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Alzheimer disease","Alzheimer disease","G30","25-34",0,0,NA
+"515","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Alzheimer disease","Alzheimer disease","G30","25-34",1,1,NA
+"516","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Alzheimer disease","Alzheimer disease","G30","25-34",0,0,NA
+"517","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Alzheimer disease","Alzheimer disease","G30","35-44",3,3,NA
+"518","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Alzheimer disease","Alzheimer disease","G30","35-44",0,0,NA
+"519","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Alzheimer disease","Alzheimer disease","G30","35-44",0,0,NA
+"520","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Alzheimer disease","Alzheimer disease","G30","45-54",9,9,NA
+"521","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Alzheimer disease","Alzheimer disease","G30","45-54",18,18,NA
+"522","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Alzheimer disease","Alzheimer disease","G30","45-54",3,3,NA
+"523","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Alzheimer disease","Alzheimer disease","G30","55-64",132,132,NA
+"524","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Alzheimer disease","Alzheimer disease","G30","55-64",80,80,NA
+"525","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Alzheimer disease","Alzheimer disease","G30","55-64",37,37,NA
+"526","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Alzheimer disease","Alzheimer disease","G30","65-74",998,998,NA
+"527","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Alzheimer disease","Alzheimer disease","G30","65-74",630,630,NA
+"528","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Alzheimer disease","Alzheimer disease","G30","65-74",278,278,NA
+"529","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Alzheimer disease","Alzheimer disease","G30","75-84",4444,4447,NA
+"530","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Alzheimer disease","Alzheimer disease","G30","75-84",2784,2790,NA
+"531","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Alzheimer disease","Alzheimer disease","G30","75-84",1109,1113,NA
+"532","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Alzheimer disease","Alzheimer disease","G30","85+",9917,9938,NA
+"533","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Alzheimer disease","Alzheimer disease","G30","85+",5778,5799,NA
+"534","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Alzheimer disease","Alzheimer disease","G30","85+",2148,2157,NA
+"535","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Alzheimer disease","Alzheimer disease","G30","Not stated",0,0,NA
+"536","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Alzheimer disease","Alzheimer disease","G30","Not stated",0,0,NA
+"537","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Alzheimer disease","Alzheimer disease","G30","Not stated",0,0,NA
+"538","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Alzheimer disease","Alzheimer disease","G30","All Ages",15503,15527,NA
+"539","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Alzheimer disease","Alzheimer disease","G30","All Ages",9291,9318,NA
+"540","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Alzheimer disease","Alzheimer disease","G30","All Ages",3575,3588,NA
+"541","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","0-24",0,0,NA
+"542","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","0-24",0,0,NA
+"543","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","0-24",0,0,NA
+"544","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","25-34",1,1,NA
+"545","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","25-34",1,1,NA
+"546","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","25-34",0,0,NA
+"547","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","35-44",4,4,NA
+"548","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","35-44",6,6,NA
+"549","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","35-44",0,0,NA
+"550","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","45-54",44,44,NA
+"551","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","45-54",24,24,NA
+"552","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","45-54",8,9,NA
+"553","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","55-64",563,563,NA
+"554","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","55-64",323,324,NA
+"555","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","55-64",141,141,NA
+"556","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","65-74",3695,3705,NA
+"557","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","65-74",2059,2062,NA
+"558","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","65-74",866,867,NA
+"559","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","75-84",12630,12645,NA
+"560","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","75-84",7426,7448,NA
+"561","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","75-84",3120,3132,NA
+"562","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","85+",25760,25785,NA
+"563","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","85+",14257,14291,NA
+"564","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","85+",5439,5459,NA
+"565","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","Not stated",2,2,NA
+"566","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","Not stated",0,0,NA
+"567","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","Not stated",0,0,NA
+"568","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",42699,42749,NA
+"569","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",24096,24156,NA
+"570","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",9574,9608,NA
+"571","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Renal failure","Renal failure","N17-N19","0-24",42,43,NA
+"572","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Renal failure","Renal failure","N17-N19","0-24",147,149,NA
+"573","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Renal failure","Renal failure","N17-N19","0-24",41,44,NA
+"574","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Renal failure","Renal failure","N17-N19","25-34",227,238,NA
+"575","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Renal failure","Renal failure","N17-N19","25-34",679,690,NA
+"576","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Renal failure","Renal failure","N17-N19","25-34",157,163,NA
+"577","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Renal failure","Renal failure","N17-N19","35-44",672,686,NA
+"578","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Renal failure","Renal failure","N17-N19","35-44",1911,1952,NA
+"579","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Renal failure","Renal failure","N17-N19","35-44",425,443,NA
+"580","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Renal failure","Renal failure","N17-N19","45-54",2010,2067,NA
+"581","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Renal failure","Renal failure","N17-N19","45-54",5031,5166,NA
+"582","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Renal failure","Renal failure","N17-N19","45-54",1214,1248,NA
+"583","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Renal failure","Renal failure","N17-N19","55-64",4945,5104,NA
+"584","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Renal failure","Renal failure","N17-N19","55-64",10397,10767,NA
+"585","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Renal failure","Renal failure","N17-N19","55-64",2939,3066,NA
+"586","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Renal failure","Renal failure","N17-N19","65-74",8993,9356,NA
+"587","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Renal failure","Renal failure","N17-N19","65-74",14501,15217,NA
+"588","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Renal failure","Renal failure","N17-N19","65-74",4679,4925,NA
+"589","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Renal failure","Renal failure","N17-N19","75-84",9927,10414,NA
+"590","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Renal failure","Renal failure","N17-N19","75-84",12973,13712,NA
+"591","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Renal failure","Renal failure","N17-N19","75-84",4815,5123,NA
+"592","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Renal failure","Renal failure","N17-N19","85+",8806,9230,NA
+"593","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Renal failure","Renal failure","N17-N19","85+",8961,9551,NA
+"594","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Renal failure","Renal failure","N17-N19","85+",3798,4055,NA
+"595","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Renal failure","Renal failure","N17-N19","Not stated",2,3,NA
+"596","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Renal failure","Renal failure","N17-N19","Not stated",0,0,NA
+"597","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Renal failure","Renal failure","N17-N19","Not stated",1,1,NA
+"598","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Renal failure","Renal failure","N17-N19","All Ages",35624,37141,NA
+"599","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Renal failure","Renal failure","N17-N19","All Ages",54600,57204,NA
+"600","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Renal failure","Renal failure","N17-N19","All Ages",18069,19068,NA
+"601","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","0-24",62,174,NA
+"602","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","0-24",137,359,NA
+"603","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","0-24",54,113,NA
+"604","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","25-34",164,438,NA
+"605","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","25-34",321,845,NA
+"606","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","25-34",109,277,NA
+"607","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","35-44",210,546,NA
+"608","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","35-44",636,1376,NA
+"609","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","35-44",186,427,NA
+"610","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","45-54",360,797,NA
+"611","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","45-54",1094,2100,NA
+"612","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","45-54",361,632,NA
+"613","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","55-64",775,1572,NA
+"614","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","55-64",1949,3354,NA
+"615","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","55-64",787,1332,NA
+"616","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","65-74",1250,2443,NA
+"617","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","65-74",2670,4261,NA
+"618","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","65-74",1232,1956,NA
+"619","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","75-84",1658,3296,NA
+"620","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","75-84",2611,4513,NA
+"621","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","75-84",1227,2106,NA
+"622","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","85+",2196,4598,NA
+"623","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","85+",2559,4938,NA
+"624","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","85+",1255,2401,NA
+"625","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","Not stated",1,2,NA
+"626","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","Not stated",2,4,NA
+"627","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","Not stated",0,0,NA
+"628","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",6676,13866,NA
+"629","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",11979,21750,NA
+"630","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","Intentional and unintentional injury, poisoning, and other adverse events","Injury, poisoning, other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",5211,9244,NA
+"631","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","0-24",382,649,NA
+"632","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","0-24",1064,1889,NA
+"633","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","0-24",325,645,NA
+"634","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","25-34",1087,1742,NA
+"635","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","25-34",2833,4343,NA
+"636","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","25-34",757,1300,NA
+"637","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","35-44",2502,3968,NA
+"638","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","35-44",6870,10650,NA
+"639","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","35-44",1711,2920,NA
+"640","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","45-54",6811,10701,NA
+"641","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","45-54",15677,24225,NA
+"642","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","45-54",4134,6917,NA
+"643","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","55-64",17425,27467,NA
+"644","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","55-64",33157,51618,NA
+"645","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","55-64",10565,17457,NA
+"646","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","65-74",32336,50275,NA
+"647","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","65-74",47313,73741,NA
+"648","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","65-74",16850,27231,NA
+"649","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","75-84",39673,60198,NA
+"650","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","75-84",46477,71412,NA
+"651","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","75-84",18594,29648,NA
+"652","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","85+",42344,63775,NA
+"653","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","85+",38564,59534,NA
+"654","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","85+",16377,25645,NA
+"655","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","Not stated",5,9,NA
+"656","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","Not stated",4,4,NA
+"657","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","Not stated",3,7,NA
+"658","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",142565,218784,NA
+"659","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",191959,297416,NA
+"660","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","All other conditions and causes (residual)","All other (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",69316,111770,NA
+"661","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","COVID-19","COVID-19","U071","0-24",759,759,NA
+"662","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","COVID-19","COVID-19","U071","0-24",2016,2016,NA
+"663","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","COVID-19","COVID-19","U071","0-24",540,540,NA
+"664","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","COVID-19","COVID-19","U071","25-34",2620,2620,NA
+"665","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","COVID-19","COVID-19","U071","25-34",6868,6868,NA
+"666","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","COVID-19","COVID-19","U071","25-34",1425,1425,NA
+"667","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","COVID-19","COVID-19","U071","35-44",6779,6779,NA
+"668","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","COVID-19","COVID-19","U071","35-44",17283,17283,NA
+"669","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","COVID-19","COVID-19","U071","35-44",3385,3385,NA
+"670","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","COVID-19","COVID-19","U071","45-54",18320,18320,NA
+"671","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","COVID-19","COVID-19","U071","45-54",39369,39369,NA
+"672","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","COVID-19","COVID-19","U071","45-54",8653,8653,NA
+"673","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","COVID-19","COVID-19","U071","55-64",45553,45553,NA
+"674","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","COVID-19","COVID-19","U071","55-64",79213,79213,NA
+"675","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","COVID-19","COVID-19","U071","55-64",21590,21590,NA
+"676","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","COVID-19","COVID-19","U071","65-74",82259,82259,NA
+"677","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","COVID-19","COVID-19","U071","65-74",111424,111424,NA
+"678","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","COVID-19","COVID-19","U071","65-74",35184,35184,NA
+"679","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","COVID-19","COVID-19","U071","75-84",106207,106207,NA
+"680","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","COVID-19","COVID-19","U071","75-84",110499,110499,NA
+"681","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","COVID-19","COVID-19","U071","75-84",39883,39883,NA
+"682","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","COVID-19","COVID-19","U071","85+",122785,122785,NA
+"683","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","COVID-19","COVID-19","U071","85+",95028,95028,NA
+"684","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","COVID-19","COVID-19","U071","85+",36937,36937,NA
+"685","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","COVID-19","COVID-19","U071","Not stated",11,11,NA
+"686","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","COVID-19","COVID-19","U071","Not stated",6,6,NA
+"687","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","COVID-19","COVID-19","U071","Not stated",4,4,NA
+"688","05/01/2022","01/01/2020","12/31/2020","By Year",2020,NA,"United States","COVID-19","COVID-19","U071","All Ages",385293,385293,NA
+"689","05/01/2022","01/01/2021","12/31/2021","By Year",2021,NA,"United States","COVID-19","COVID-19","U071","All Ages",461706,461706,NA
+"690","05/01/2022","01/01/2022","04/30/2022","By Year",2022,NA,"United States","COVID-19","COVID-19","U071","All Ages",147601,147601,NA
